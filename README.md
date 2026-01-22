@@ -33,10 +33,11 @@ The application is **deployed using Streamlit**, ensuring accessibility and ease
 ## 🖥️ Technical Highlights
 
 The technical process includes the following steps:
+<p align="center">
+  <img src="images/technical-process.png" width="550">
+</p>
 
-![Technical Process](images/technical-process.png)  
-*Figure: Overview of the technical workflow*
-
+<p align="center" >*Figure: Overview of the technical workflow*
 ---
 
 ## 📊 Dashboard Development
