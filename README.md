@@ -15,9 +15,7 @@ The project uses the **Students’ Academic Performance Dataset**, which contain
 
 ## ⚙️ Agile Development Approach  
 
-The project begins by defining the overall **vision** and **success criteria**, followed by formulating **user stories** for key stakeholders: administrators, teachers, and policymakers. Using an **Agile approach**, tasks are organized into small, manageable units and implemented across **three focused sprints**.  
-
-The development is iterative, emphasizing **continuous feedback**, alignment with **stakeholder needs**, and **incremental value delivery**. The table below summarizes the **activities, outcomes, and feedback** for each sprint:
+The project begins by defining the overall **vision** and **success criteria**, followed by formulating **user stories** for key stakeholders: administrators, teachers, and policymakers. Using an **Agile approach**, tasks are organized into small, manageable units and implemented across **three focused sprints**. The development is iterative, emphasizing **continuous feedback**, alignment with **stakeholder needs**, and **incremental value delivery**. The table below summarizes the **activities, outcomes, and feedback** for each sprint:
 
 <p align="center">
   <img src="images/sprint-backlog.png" width="550">
