@@ -37,8 +37,9 @@ The technical process includes the following steps:
   <img src="images/technical-process.png" width="550">
 </p>
 
-<p align="center" >*Figure: Overview of the technical workflow*
----
+<p align="center" > *Figure: Overview of the technical workflow*
+
+  ---
 
 ## 📊 Dashboard Development
 
