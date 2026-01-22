@@ -37,14 +37,13 @@ The technical process includes the following steps:
   <img src="images/technical-process.png" width="550">
 </p>
 
-<p align="center" > *Figure: Overview of the technical workflow*
-
   ---
 
 ## 📊 Dashboard Development
 
-![Dashboard Development](images/dashboard-development.png)  
-*Figure: Screenshot of the interactive dashboard*
+<p align="center">
+  <img src="images/dashboard-development.png" width="550">
+</p>
 
 - **MVD** - https://minminminmin98-case-study-student-dashboardmvd-dashboard-rzjomh.streamlit.app/ 
 - **Predictive Model** - https://minminminmin98-cas-student-dashboardpredictive-dashboard-yoma3b.streamlit.app/  
