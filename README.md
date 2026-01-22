@@ -13,20 +13,15 @@ The project uses the **Students’ Academic Performance Dataset**, which contain
 
 ---
 
-## ⚙️ Approach & Development Strategy
+## ⚙️ Agile Development Approach  
 
-The dashboard is developed iteratively using an **Agile framework**, focusing on continuous feedback, stakeholder needs, and incremental value delivery. Development occurs in **three focused sprints**, each addressing a distinct user need:
+The project begins by defining the overall **vision** and **success criteria**, followed by formulating **user stories** for key stakeholders: administrators, teachers, and policymakers. Using an **Agile approach**, tasks are organized into small, manageable units and implemented across **three focused sprints**.  
 
-### Sprint 1
-- Delivers a **Minimum Viable Dashboard** with interactive filters and tabular views for data exploration.
+The development is iterative, emphasizing **continuous feedback**, alignment with **stakeholder needs**, and **incremental value delivery**. The table below summarizes the **activities, outcomes, and feedback** for each sprint:
 
-### Sprint 2
-- Integrates a **Random Forest predictive model** to classify student performance into Low, Middle, or High categories.
-
-### Sprint 3
-- Refines **usability and insight delivery** through improved visualizations, summary metrics, and confidence indicators for predictions.
-
-The application is **deployed using Streamlit**, ensuring accessibility and ease of use for non-technical users.
+<p align="center">
+  <img src="images/sprint-backlog.png" width="550">
+</p>
 
 ---
 
