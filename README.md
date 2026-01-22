@@ -1,10 +1,10 @@
-## 🌟 Case Study Overview
-Turning raw student data into actionable insights is challenging for educators and policymakers. This project focused on creating an **interactive dashboard** that:
-- Explores student performance trends
-- Predicts performance levels to identify at-risk students
-- Supports data-driven decisions for teachers, administrators, and policymakers
+# 🎓 Student Performance Insights Through an Agile Approach
 
-The project followed **Agile methodology**, delivering improvements across **three sprints** using **Python and GitHub**.
+## 📌 Overview
+
+Educational institutions generate large volumes of student data, yet transforming this information into **timely and actionable insights** remains a significant challenge. Administrators often lack a consolidated overview of performance trends, teachers struggle to identify at-risk students early, and policymakers require evidence-based insights to guide targeted interventions.
+
+This project presents an **interactive student performance dashboard** that transforms raw academic and engagement data into meaningful insights. Developed using **Agile Data Science principles**, the solution integrates **data visualization** with **machine learning–based performance prediction**, enabling stakeholders to make informed, data-driven decisions in education.
 
 ---
 
@@ -13,15 +13,64 @@ The project uses the **Students’ Academic Performance Dataset**, which contain
 
 ---
 
-## 🚀 Key Features
-- **Interactive Dashboard:** Filter by grade, subject, or engagement metrics
-- **Predictive Analytics:** Classify student performance (Low, Medium, High)
-- **Visual Insights:** Charts, KPIs, and summary metrics for quick analysis
-- **User-Focused Design:** Aligns with stakeholder needs (admins, teachers, policymakers)
+## ⚙️ Approach & Development Strategy
+
+The dashboard is developed iteratively using an **Agile framework**, focusing on continuous feedback, stakeholder needs, and incremental value delivery. Development occurs in **three focused sprints**, each addressing a distinct user need:
+
+### Sprint 1
+- Delivers a **Minimum Viable Dashboard** with interactive filters and tabular views for data exploration.
+
+### Sprint 2
+- Integrates a **Random Forest predictive model** to classify student performance into Low, Middle, or High categories.
+
+### Sprint 3
+- Refines **usability and insight delivery** through improved visualizations, summary metrics, and confidence indicators for predictions.
+
+The application is **deployed using Streamlit**, ensuring accessibility and ease of use for non-technical users.
 
 ---
 
-## 📊 Dashboards
+## 🖥️ Technical Highlights
+
+The technical process includes the following steps:
+
+![Technical Process](images/technical-process.png)  
+*Figure: Overview of the technical workflow*
+
+---
+
+## 📊 Dashboard Development
+
+![Dashboard Development](images/dashboard-development.png)  
+*Figure: Screenshot of the interactive dashboard*
+
 - **MVD** - https://minminminmin98-case-study-student-dashboardmvd-dashboard-rzjomh.streamlit.app/ 
 - **Predictive Model** - https://minminminmin98-cas-student-dashboardpredictive-dashboard-yoma3b.streamlit.app/  
 - **Final UI** - https://minminminmin98-case--student-dashboardfinal-ui-dashboard-4idous.streamlit.app/
+
+---
+
+## 🧠 Key Features
+
+- Interactive filtering by academic and demographic attributes  
+- Predictive performance classification using machine learning  
+- Visual summaries for trend analysis and stakeholder reporting  
+- Clear distinction between administrator, teacher, and policymaker perspectives  
+- Confidence indicators that enhance transparency of model predictions  
+
+---
+
+## 🔍 Insights & Outcomes
+
+The Agile approach allows **early validation of features** and rapid improvement based on user feedback. By integrating **predictive analytics**, the dashboard shifts from descriptive reporting to proactive decision support:
+
+- Teachers **identify at-risk students earlier**  
+- Administrators and policymakers **gain clear visibility into performance patterns**  
+
+Challenges in synchronizing data preprocessing, model validation, and deployment within short sprint cycles are addressed through **structured sprint planning and regular reviews**, keeping progress aligned across technical and analytical components.
+
+---
+
+## ✅ Conclusion
+
+This case study demonstrates how **Agile Data Science** effectively improves educational analytics, delivering a **practical and user-centered solution**. By combining iterative development, machine learning, and interactive visualization, the project highlights the potential of **data-driven tools** to support timely, evidence-based decisions in education.
