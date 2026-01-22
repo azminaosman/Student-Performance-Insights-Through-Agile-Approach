@@ -44,16 +44,6 @@ The technical process includes the following steps:
 
 ---
 
-## 🧠 Key Features
-
-- Interactive filtering by academic and demographic attributes  
-- Predictive performance classification using machine learning  
-- Visual summaries for trend analysis and stakeholder reporting  
-- Clear distinction between administrator, teacher, and policymaker perspectives  
-- Confidence indicators that enhance transparency of model predictions  
-
----
-
 ## 🔍 Insights & Outcomes
 
 The Agile approach allows **early validation of features** and rapid improvement based on user feedback. By integrating **predictive analytics**, the dashboard shifts from descriptive reporting to proactive decision support:
