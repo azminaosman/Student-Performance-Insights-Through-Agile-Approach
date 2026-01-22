@@ -38,9 +38,9 @@ The technical process includes the following steps:
   <img src="images/dashboard-development.png" width="550">
 </p>
 
-- **MVD** - https://minminminmin98-case-study-student-dashboardmvd-dashboard-rzjomh.streamlit.app/ 
-- **Predictive Model** - https://minminminmin98-cas-student-dashboardpredictive-dashboard-yoma3b.streamlit.app/  
-- **Final UI** - https://minminminmin98-case--student-dashboardfinal-ui-dashboard-4idous.streamlit.app/
+- **Sprint 1: MVD** - https://minminminmin98-case-study-student-dashboardmvd-dashboard-rzjomh.streamlit.app/ 
+- **Sprint 2: Predictive Model** - https://minminminmin98-cas-student-dashboardpredictive-dashboard-yoma3b.streamlit.app/  
+- **Sprint 3: Final UI** - https://minminminmin98-case--student-dashboardfinal-ui-dashboard-4idous.streamlit.app/
 
 ---
 
